@@ -130,6 +130,7 @@ headers
 ## /api/user/history 
 #### method: GET
 示例 /api/user/history?username=aaa&pageNumber=1
+
 headers
 ```json
 {
